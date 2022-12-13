@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/reactdashboardwebsite/static/js/main.d7a44b4b.js",
+    "static/js/496.32f6fd7b.chunk.js": "/reactdashboardwebsite/static/js/496.32f6fd7b.chunk.js",
+    "index.html": "/reactdashboardwebsite/index.html",
+    "main.d7a44b4b.js.map": "/reactdashboardwebsite/static/js/main.d7a44b4b.js.map",
+    "496.32f6fd7b.chunk.js.map": "/reactdashboardwebsite/static/js/496.32f6fd7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d7a44b4b.js"
+  ]
+}
